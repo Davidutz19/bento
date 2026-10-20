@@ -1,0 +1,17 @@
+kind = "plugin"
+name = "Wallpaper selector"
+description = "Pick a wallpaper on the island, for awww, swww, hyprpaper, swaybg or any command"
+repository = "https://github.com/DavidutzDev/mochi-wallpaper-selector"
+maintainers = ["DavidutzDev"]
+license = "MIT"
+tags = [
+    "wallpaper",
+    "awww",
+    "carousel",
+]
+screenshots = ["docs/screenshot.png"]
+
+[[release]]
+version = "0.1.0"
+commit = "459b104544502cc6c7f35987418242117afeb0db"
+mochi = "0.4.1"
