@@ -12,11 +12,6 @@ tags = [
 screenshots = ["docs/screenshot.png"]
 
 [[release]]
-version = "0.1.0"
-commit = "bf7de59bc727b5da1900d80dc38ed94411eaac36"
-mochi = "0.4.1"
-
-[[release]]
 version = "0.1.1"
 commit = "e1c87f1b097d4d6092ce620fc17bc0251fe42718"
 mochi = "0.4.1"
